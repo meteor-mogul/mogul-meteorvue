@@ -1,3 +1,5 @@
+Note: Project currently mothballed.  I'm working instead on a simpler approach: just wrap vue.js as a meteor package.
+
 Vue and Meteor integration
 ==========================
 
